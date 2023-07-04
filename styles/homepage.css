@@ -1,0 +1,54 @@
+.website-logo{
+  height: 50px;
+  border-radius: 25px;
+  border: solid;
+  margin-right: 15px;
+}
+
+body{
+  background-color: rgb(115,149,174);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: black;
+}
+
+.top-container{
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+  font-size: 15px;
+  align-items: center;
+}
+
+.search-bar{
+  width: 150px;
+  height: 25px;
+  font-size: 15px;
+  margin-left: 975px;
+  background-color: rgb(97, 119, 162);
+  border: solid;
+  border-color: rgb(0, 0, 0);
+  border-radius: 13px;
+  border-width: 2px;
+}
+
+.search-button{
+  background: none;
+  height: 25px;
+  border:none;
+  cursor: pointer;
+}
+
+.search-pic{
+  height: 25px;
+}
+
+.my-account-button{
+  margin-left: 40px;
+  padding: 5px 10px;
+  background-color: rgb(97, 119, 162);
+  border: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 2px;
+  border-radius: 20px;
+  margin-right: 20px;
+}
